@@ -1,6 +1,8 @@
 # How To Manipulate and Analyze Data in Python Without Using Pandas
 
-In this repo you find the code I used for the post on my blog [Talking Data Science](https://talkingdatascience.com/how-to-manipulate-and-analyze-data-in-python-without-using-pandas/) which was also published on [Towards Data Science](https://towardsdatascience.com/how-to-manipulate-and-analyze-data-in-python-without-using-pandas-f22e0788c471).
+This repo contains the code for doing the analysis in Python. 
+
+Please visit my blog [Talking Data Science](https://talkingdatascience.com/how-to-manipulate-and-analyze-data-in-python-without-using-pandas/) or Medium where the article was published in [Towards Data Science](https://towardsdatascience.com/how-to-manipulate-and-analyze-data-in-python-without-using-pandas-f22e0788c471) to read the full article.
 
 ## Data from Gapminder
 The data used in this article is based on free material from United Nations via [GAPMINDER.ORG](https://www.gapminder.org), CC-BY LICENSE.
